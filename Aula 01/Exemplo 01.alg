@@ -4,5 +4,5 @@ inicio
 
     escreva ("Oi,")
     escreva ("tudo bem?")  
-    
+
 fimalgoritmo
